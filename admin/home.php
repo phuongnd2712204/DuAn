@@ -1,0 +1,1 @@
+<h1>Control pane</h1>
